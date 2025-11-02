@@ -45,7 +45,7 @@
 
 ### 🧠 CS & Tools
 <div>
-<img src="https://skillicons.dev/icons?i=cpp,py,git,github,vscode,postman,vercel" height="45" />
+<img src="https://skillicons.dev/icons?i=cpp,py,C++,git,github,vscode,postman,vercel" height="45" />
 </div>
 
 ---
@@ -57,7 +57,6 @@
 **Swag-e-Swaad – Food App** | MERN, Redux, Tailwind | Payments, RBAC, Animations, Vercel/Azure |
 **Kanban Board** | MERN, Socket.IO | Realtime sync, JWT Auth, RBAC |
 **3D Solar System** | Three.js | Real-time animation, planetary physics |
-**AI Test-Case Generator** | MERN + GitHub API | Auto PR create, AI docs |
 
 📌 *More projects on my GitHub — always building* 🔥
 
