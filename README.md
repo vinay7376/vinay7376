@@ -45,7 +45,7 @@
 
 ### 🧠 CS & Tools
 <div>
-<img src="https://skillicons.dev/icons?i=cpp,py,C++,git,github,vscode,postman,vercel" height="45" />
+<img src="https://skillicons.dev/icons?i=cpp,py,git,github,vscode,postman,vercel" height="45" />
 </div>
 
 ---
