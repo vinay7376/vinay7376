@@ -76,13 +76,6 @@
 
 ---
 
-## 🐍 Activity Snake
-> 🐍 My contribution grid eats commits
-
-<img src="https://raw.githubusercontent.com/vinay7376/vinay7376/output/snake.svg" />
-
----
-
 ## 📬 **Connect With Me**
 
 <div align="center">
