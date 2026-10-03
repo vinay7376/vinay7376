@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vinaypal7376/"><img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%26%20Internships-success?style=for-the-badge&logo=target&logoColor=white" alt="Open to Work"/></a>
   <a href="#-key-achievements--milestones"><img src="https://img.shields.io/badge/Young%20Turks%20Assessment-99.50%25ile-blueviolet?style=for-the-badge&logo=trophy&logoColor=white" alt="Percentile"/></a>
-  <a href="https://leetcode.com/u/vinay7376/"><img src="https://img.shields.io/badge/DSA-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/></a>
+  <a href="https://leetcode.com/u/vinay7860/"><img src="https://img.shields.io/badge/DSA-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/></a>
   <a href="https://linkedin.com/in/vinaypal7376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
